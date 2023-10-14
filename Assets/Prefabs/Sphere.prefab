@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2744181202028452364}
   - component: {fileID: 973840572375091993}
   - component: {fileID: 4583401031895229481}
-  - component: {fileID: 1824850599356901335}
+  - component: {fileID: 2565043966780917216}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Player
@@ -164,7 +164,7 @@ MonoBehaviour:
   SpawnWithObservers: 1
   DontDestroyWithOwner: 0
   AutoObjectParentSync: 1
---- !u!114 &1824850599356901335
+--- !u!114 &2565043966780917216
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -173,7 +173,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5824942001391743300}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e96cb6065543e43c4a752faaa1468eb1, type: 3}
+  m_Script: {fileID: 11500000, guid: df2868252ab5c4d1da357e8f11f1b524, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   SyncPositionX: 1
